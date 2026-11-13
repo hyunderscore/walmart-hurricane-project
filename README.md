@@ -30,3 +30,9 @@ Python 3 with:
 - seaborn
 - requests
 - jupyter
+
+## How to run
+
+1. Clone this repo.
+2. Install the packages: `pip install pandas matplotlib seaborn requests jupyter`
+3. Open `notebooks/team_notebook.ipynb` and run Restart and Run All. The weather cell needs internet to reach Open-Meteo.
